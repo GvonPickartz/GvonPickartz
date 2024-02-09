@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustaaf von Pickartz
 - 👀 I’m interested in PowerShell & CMD scripting.
-- 🌱 I’m currently learning PowerShell.
+- 🌱 I’m a PowerShell Senior developer.
 - 💞️ I’m looking to collaborate on: nothing for now.
 - 📫 How to reach me: still evaluating this.
 
